@@ -1,0 +1,19 @@
+{
+  "name": "random-quotegenerator",
+  "version": "1.0.0",
+  "description": "A quote generator that brings you some of  the inspirational quotes by great authors on the click of a button.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranay221/Random-quoteGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pranay221/Random-quoteGenerator/issues"
+  },
+  "homepage": "https://github.com/Pranay221/Random-quoteGenerator#readme"
+}
